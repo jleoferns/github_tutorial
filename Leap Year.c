@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
-    //my comment//Nadim my comment
+    //I added a comment for my tutorial purpose
 {
     int year;
     printf("Enter a year: ");
