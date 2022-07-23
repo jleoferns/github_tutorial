@@ -1,4 +1,5 @@
-#include <stdio.h>
+//new edition
+//#include <stdio.h>
 int main()
     //my comment
 {
